@@ -8,4 +8,5 @@ return require('packer').startup(function(use)
   use 'wbthomason/packer.nvim'
   use 'folke/tokyonight.nvim' -- theme
   use 'neovim/nvim-lspconfig' -- Configurations for Nvim LSP
+  use 'akinsho/toggleterm.nvim'
 end)
