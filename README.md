@@ -5,3 +5,7 @@ my neovim settings
 - clone this repo to `~/.config`
 - run `setup.sh`
 - open `nvim` and run `:PackerSync`
+
+# requirements
+- neovim
+- ccls
